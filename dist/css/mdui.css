@@ -14,7 +14,7 @@
  */
 .mdui-theme-primary-amber .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ffc107 !important;
+  background-color: #ffb300 !important;
 }
 .mdui-theme-primary-amber .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -57,8 +57,8 @@
   background-color: #ff6f00 !important;
 }
 .mdui-theme-primary-blue .mdui-color-theme {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #2196f3 !important;
+  color: #fff !important;
+  background-color: #1e88e5 !important;
 }
 .mdui-theme-primary-blue .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -102,7 +102,7 @@
 }
 .mdui-theme-primary-blue-grey .mdui-color-theme {
   color: #fff !important;
-  background-color: #607d8b !important;
+  background-color: #546e7a !important;
 }
 .mdui-theme-primary-blue-grey .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -146,7 +146,7 @@
 }
 .mdui-theme-primary-brown .mdui-color-theme {
   color: #fff !important;
-  background-color: #795548 !important;
+  background-color: #6d4c41 !important;
 }
 .mdui-theme-primary-brown .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -190,7 +190,7 @@
 }
 .mdui-theme-primary-cyan .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #00bcd4 !important;
+  background-color: #00acc1 !important;
 }
 .mdui-theme-primary-cyan .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -233,8 +233,8 @@
   background-color: #006064 !important;
 }
 .mdui-theme-primary-deep-orange .mdui-color-theme {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #ff5722 !important;
+  color: #fff !important;
+  background-color: #f4511e !important;
 }
 .mdui-theme-primary-deep-orange .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -278,7 +278,7 @@
 }
 .mdui-theme-primary-deep-purple .mdui-color-theme {
   color: #fff !important;
-  background-color: #673ab7 !important;
+  background-color: #5e35b1 !important;
 }
 .mdui-theme-primary-deep-purple .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -321,8 +321,8 @@
   background-color: #311b92 !important;
 }
 .mdui-theme-primary-green .mdui-color-theme {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #4caf50 !important;
+  color: #fff !important;
+  background-color: #43a047 !important;
 }
 .mdui-theme-primary-green .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -365,8 +365,8 @@
   background-color: #1b5e20 !important;
 }
 .mdui-theme-primary-grey .mdui-color-theme {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #9e9e9e !important;
+  color: #fff !important;
+  background-color: #757575 !important;
 }
 .mdui-theme-primary-grey .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -410,7 +410,7 @@
 }
 .mdui-theme-primary-indigo .mdui-color-theme {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: #3949ab !important;
 }
 .mdui-theme-primary-indigo .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -454,7 +454,7 @@
 }
 .mdui-theme-primary-light-blue .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #03a9f4 !important;
+  background-color: #039be5 !important;
 }
 .mdui-theme-primary-light-blue .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -498,7 +498,7 @@
 }
 .mdui-theme-primary-light-green .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #8bc34a !important;
+  background-color: #7cb342 !important;
 }
 .mdui-theme-primary-light-green .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -542,7 +542,7 @@
 }
 .mdui-theme-primary-lime .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #cddc39 !important;
+  background-color: #c0ca33 !important;
 }
 .mdui-theme-primary-lime .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -586,7 +586,7 @@
 }
 .mdui-theme-primary-orange .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ff9800 !important;
+  background-color: #fb8c00 !important;
 }
 .mdui-theme-primary-orange .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -630,7 +630,7 @@
 }
 .mdui-theme-primary-pink .mdui-color-theme {
   color: #fff !important;
-  background-color: #e91e63 !important;
+  background-color: #d81b60 !important;
 }
 .mdui-theme-primary-pink .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -674,7 +674,7 @@
 }
 .mdui-theme-primary-purple .mdui-color-theme {
   color: #fff !important;
-  background-color: #9c27b0 !important;
+  background-color: #8e24aa !important;
 }
 .mdui-theme-primary-purple .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -718,7 +718,7 @@
 }
 .mdui-theme-primary-red .mdui-color-theme {
   color: #fff !important;
-  background-color: #f44336 !important;
+  background-color: #e53935 !important;
 }
 .mdui-theme-primary-red .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -762,7 +762,7 @@
 }
 .mdui-theme-primary-teal .mdui-color-theme {
   color: #fff !important;
-  background-color: #009688 !important;
+  background-color: #00897b !important;
 }
 .mdui-theme-primary-teal .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -806,7 +806,7 @@
 }
 .mdui-theme-primary-yellow .mdui-color-theme {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ffeb3b !important;
+  background-color: #fdd835 !important;
 }
 .mdui-theme-primary-yellow .mdui-color-theme-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1134,7 +1134,7 @@
 }
 .mdui-theme-accent-teal .mdui-color-theme-accent {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #64ffda !important;
+  background-color: #00bfa5 !important;
 }
 .mdui-theme-accent-teal .mdui-color-theme-a100 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1142,15 +1142,15 @@
 }
 .mdui-theme-accent-teal .mdui-color-theme-a200 {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #64ffda !important;
+  background-color: #00bfa5 !important;
 }
 .mdui-theme-accent-teal .mdui-color-theme-a400 {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #1de9b6 !important;
+  background-color: #1dc895 !important;
 }
 .mdui-theme-accent-teal .mdui-color-theme-a700 {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #00bfa5 !important;
+  background-color: #00957d !important;
 }
 .mdui-theme-accent-yellow .mdui-color-theme-accent {
   color: rgba(0, 0, 0, .87) !important;
@@ -1178,7 +1178,7 @@
  */
 .mdui-color-amber {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ffc107 !important;
+  background-color: #ffb300 !important;
 }
 .mdui-color-amber-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1221,8 +1221,8 @@
   background-color: #ff6f00 !important;
 }
 .mdui-color-blue {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #2196f3 !important;
+  color: #fff !important;
+  background-color: #1e88e5 !important;
 }
 .mdui-color-blue-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1266,7 +1266,7 @@
 }
 .mdui-color-blue-grey {
   color: #fff !important;
-  background-color: #607d8b !important;
+  background-color: #546e7a !important;
 }
 .mdui-color-blue-grey-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1310,7 +1310,7 @@
 }
 .mdui-color-brown {
   color: #fff !important;
-  background-color: #795548 !important;
+  background-color: #6d4c41 !important;
 }
 .mdui-color-brown-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1354,7 +1354,7 @@
 }
 .mdui-color-cyan {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #00bcd4 !important;
+  background-color: #00acc1 !important;
 }
 .mdui-color-cyan-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1397,8 +1397,8 @@
   background-color: #006064 !important;
 }
 .mdui-color-deep-orange {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #ff5722 !important;
+  color: #fff !important;
+  background-color: #f4511e !important;
 }
 .mdui-color-deep-orange-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1442,7 +1442,7 @@
 }
 .mdui-color-deep-purple {
   color: #fff !important;
-  background-color: #673ab7 !important;
+  background-color: #5e35b1 !important;
 }
 .mdui-color-deep-purple-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1485,8 +1485,8 @@
   background-color: #311b92 !important;
 }
 .mdui-color-green {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #4caf50 !important;
+  color: #fff !important;
+  background-color: #43a047 !important;
 }
 .mdui-color-green-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1529,8 +1529,8 @@
   background-color: #1b5e20 !important;
 }
 .mdui-color-grey {
-  color: rgba(0, 0, 0, .87) !important;
-  background-color: #9e9e9e !important;
+  color: #fff !important;
+  background-color: #757575 !important;
 }
 .mdui-color-grey-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1574,7 +1574,7 @@
 }
 .mdui-color-indigo {
   color: #fff !important;
-  background-color: #3f51b5 !important;
+  background-color: #3949ab !important;
 }
 .mdui-color-indigo-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1618,7 +1618,7 @@
 }
 .mdui-color-light-blue {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #03a9f4 !important;
+  background-color: #039be5 !important;
 }
 .mdui-color-light-blue-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1662,7 +1662,7 @@
 }
 .mdui-color-light-green {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #8bc34a !important;
+  background-color: #7cb342 !important;
 }
 .mdui-color-light-green-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1706,7 +1706,7 @@
 }
 .mdui-color-lime {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #cddc39 !important;
+  background-color: #c0ca33 !important;
 }
 .mdui-color-lime-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1750,7 +1750,7 @@
 }
 .mdui-color-orange {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ff9800 !important;
+  background-color: #fb8c00 !important;
 }
 .mdui-color-orange-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1794,7 +1794,7 @@
 }
 .mdui-color-pink {
   color: #fff !important;
-  background-color: #e91e63 !important;
+  background-color: #d81b60 !important;
 }
 .mdui-color-pink-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1838,7 +1838,7 @@
 }
 .mdui-color-purple {
   color: #fff !important;
-  background-color: #9c27b0 !important;
+  background-color: #8e24aa !important;
 }
 .mdui-color-purple-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1882,7 +1882,7 @@
 }
 .mdui-color-red {
   color: #fff !important;
-  background-color: #f44336 !important;
+  background-color: #e53935 !important;
 }
 .mdui-color-red-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1926,7 +1926,7 @@
 }
 .mdui-color-teal {
   color: #fff !important;
-  background-color: #009688 !important;
+  background-color: #00897b !important;
 }
 .mdui-color-teal-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -1970,7 +1970,7 @@
 }
 .mdui-color-yellow {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #ffeb3b !important;
+  background-color: #fdd835 !important;
 }
 .mdui-color-yellow-50 {
   color: rgba(0, 0, 0, .87) !important;
@@ -2298,7 +2298,7 @@
 }
 .mdui-color-teal-accent {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #64ffda !important;
+  background-color: #00bfa5 !important;
 }
 .mdui-color-teal-a100 {
   color: rgba(0, 0, 0, .87) !important;
@@ -2306,15 +2306,15 @@
 }
 .mdui-color-teal-a200 {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #64ffda !important;
+  background-color: #00bfa5 !important;
 }
 .mdui-color-teal-a400 {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #1de9b6 !important;
+  background-color: #1dc895 !important;
 }
 .mdui-color-teal-a700 {
   color: rgba(0, 0, 0, .87) !important;
-  background-color: #00bfa5 !important;
+  background-color: #00957d !important;
 }
 .mdui-color-yellow-accent {
   color: rgba(0, 0, 0, .87) !important;
@@ -3198,19 +3198,19 @@
   color: #d50000 !important;
 }
 .mdui-theme-accent-teal .mdui-text-color-theme-accent {
-  color: #64ffda !important;
+  color: #00bfa5 !important;
 }
 .mdui-theme-accent-teal .mdui-text-color-theme-a100 {
   color: #a7ffeb !important;
 }
 .mdui-theme-accent-teal .mdui-text-color-theme-a200 {
-  color: #64ffda !important;
+  color: #00bfa5 !important;
 }
 .mdui-theme-accent-teal .mdui-text-color-theme-a400 {
-  color: #1de9b6 !important;
+  color: #1dc895 !important;
 }
 .mdui-theme-accent-teal .mdui-text-color-theme-a700 {
-  color: #00bfa5 !important;
+  color: #00957d !important;
 }
 .mdui-theme-accent-yellow .mdui-text-color-theme-accent {
   color: #ff0 !important;
@@ -4073,19 +4073,19 @@
   color: #d50000 !important;
 }
 .mdui-text-color-teal-accent {
-  color: #64ffda !important;
+  color: #00bfa5 !important;
 }
 .mdui-text-color-teal-a100 {
   color: #a7ffeb !important;
 }
 .mdui-text-color-teal-a200 {
-  color: #64ffda !important;
+  color: #00bfa5 !important;
 }
 .mdui-text-color-teal-a400 {
-  color: #1de9b6 !important;
+  color: #1dc895 !important;
 }
 .mdui-text-color-teal-a700 {
-  color: #00bfa5 !important;
+  color: #00957d !important;
 }
 .mdui-text-color-yellow-accent {
   color: #ff0 !important;
@@ -4638,40 +4638,26 @@
     display: none !important;
   }
 }
-/*! normalize.css v6.0.0 | MIT License | github.com/necolas/normalize.css */
+/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
 /**
  * 1. Correct the line height in all browsers.
- * 2. Prevent adjustments of font size after orientation changes in
- *    IE on Windows Phone and in iOS.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 html {
   line-height: 1.15;
-  /* 2 */
-  -webkit-text-size-adjust: 100%;
   /* 1 */
-      -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
   /* 2 */
 }
 /* Sections
    ========================================================================== */
 /**
- * Remove the margin in all browsers (opinionated).
+ * Remove the margin in all browsers.
  */
 body {
   margin: 0;
-}
-/**
- * Add the correct display in IE 9-.
- */
-article,
-aside,
-footer,
-header,
-nav,
-section {
-  display: block;
 }
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -4683,22 +4669,6 @@ h1 {
 }
 /* Grouping content
    ========================================================================== */
-/**
- * Add the correct display in IE 9-.
- * 1. Add the correct display in IE.
- */
-figcaption,
-figure,
-main {
-  /* 1 */
-  display: block;
-}
-/**
- * Add the correct margin in IE 8.
- */
-figure {
-  margin: 1em 40px;
-}
 /**
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
@@ -4725,18 +4695,13 @@ pre {
 /* Text-level semantics
    ========================================================================== */
 /**
- * 1. Remove the gray background on active links in IE 10.
- * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
+ * Remove the gray background on active links in IE 10.
  */
 a {
   background-color: transparent;
-  /* 1 */
-
-  -webkit-text-decoration-skip: objects;
-  /* 2 */
 }
 /**
- * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
+ * 1. Remove the bottom border in Chrome 57-
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
 abbr[title] {
@@ -4749,13 +4714,6 @@ abbr[title] {
   -webkit-text-decoration: underline dotted;
      -moz-text-decoration: underline dotted;
   /* 2 */
-}
-/**
- * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
- */
-b,
-strong {
-  font-weight: inherit;
 }
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
@@ -4775,19 +4733,6 @@ samp {
   /* 1 */
   font-size: 1em;
   /* 2 */
-}
-/**
- * Add the correct font style in Android 4.3-.
- */
-dfn {
-  font-style: italic;
-}
-/**
- * Add the correct background and color in IE 9-.
- */
-mark {
-  color: #000;
-  background-color: #ff0;
 }
 /**
  * Add the correct font size in all browsers.
@@ -4815,42 +4760,30 @@ sup {
 /* Embedded content
    ========================================================================== */
 /**
- * Add the correct display in IE 9-.
- */
-audio,
-video {
-  display: inline-block;
-}
-/**
- * Add the correct display in iOS 4-7.
- */
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
-/**
- * Remove the border on images inside links in IE 10-.
+ * Remove the border on images inside links in IE 10.
  */
 img {
   border-style: none;
 }
-/**
- * Hide the overflow in IE.
- */
-svg:not(:root) {
-  overflow: hidden;
-}
 /* Forms
    ========================================================================== */
 /**
- * Remove the margin in Firefox and Safari.
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
  */
 button,
 input,
 optgroup,
 select,
 textarea {
+  /* 1 */
   margin: 0;
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 2 */
 }
 /**
  * Show the overflow in IE.
@@ -4871,16 +4804,13 @@ select {
   text-transform: none;
 }
 /**
- * 1. Prevent a WebKit bug where (2) destroys native `audio` and `video`
- *    controls in Android 4.
- * 2. Correct the inability to style clickable types in iOS and Safari.
+ * Correct the inability to style clickable types in iOS and Safari.
  */
 button,
-html [type="button"],
+[type="button"],
 [type="reset"],
 [type="submit"] {
   -webkit-appearance: button;
-  /* 2 */
 }
 /**
  * Remove the inner border and padding in Firefox.
@@ -4891,6 +4821,12 @@ button::-moz-focus-inner,
 [type="submit"]::-moz-focus-inner {
   padding: 0;
   border-style: none;
+}
+/**
+ * Correct the padding in Firefox.
+ */
+fieldset {
+  padding: .35em .75em .625em;
 }
 /**
  * 1. Correct the text wrapping in Edge and IE.
@@ -4914,24 +4850,20 @@ legend {
   /* 1 */
 }
 /**
- * 1. Add the correct display in IE 9-.
- * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
 progress {
-  display: inline-block;
-  /* 1 */
   vertical-align: baseline;
-  /* 2 */
 }
 /**
- * Remove the default vertical scrollbar in IE.
+ * Remove the default vertical scrollbar in IE 10+.
  */
 textarea {
   overflow: auto;
 }
 /**
- * 1. Add the correct box sizing in IE 10-.
- * 2. Remove the padding in IE 10-.
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
  */
 [type="checkbox"],
 [type="radio"] {
@@ -4959,9 +4891,8 @@ textarea {
   /* 2 */
 }
 /**
- * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
+ * Remove the inner padding in Chrome and Safari on macOS.
  */
-[type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
@@ -4978,11 +4909,9 @@ textarea {
 /* Interactive
    ========================================================================== */
 /*
- * Add the correct display in IE 9-.
- * 1. Add the correct display in Edge, IE, and Firefox.
+ * Add the correct display in Edge, IE 10+, and Firefox.
  */
-details,
-menu {
+details {
   display: block;
 }
 /*
@@ -4991,24 +4920,16 @@ menu {
 summary {
   display: list-item;
 }
-/* Scripting
+/* Misc
    ========================================================================== */
 /**
- * Add the correct display in IE 9-.
- */
-canvas {
-  display: inline-block;
-}
-/**
- * Add the correct display in IE.
+ * Add the correct display in IE 10+.
  */
 template {
   display: none;
 }
-/* Hidden
-   ========================================================================== */
 /**
- * Add the correct display in IE 10-.
+ * Add the correct display in IE 10.
  */
 [hidden] {
   display: none;
@@ -5677,10 +5598,10 @@ body.mdui-locked {
   background-color: #ff5252;
 }
 .mdui-theme-accent-teal .mdui-typo a {
-  color: #64ffda;
+  color: #00bfa5;
 }
 .mdui-theme-accent-teal .mdui-typo a:before {
-  background-color: #64ffda;
+  background-color: #00bfa5;
 }
 .mdui-theme-accent-yellow .mdui-typo a {
   color: #ff0;
@@ -6471,7 +6392,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-amber.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-amber.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-amber.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #ffd740;
+  color: #ffab00;
 }
 .mdui-theme-accent-blue .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #2962ff;
@@ -6491,7 +6412,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-blue.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-blue.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-blue.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #448aff;
+  color: #2962ff;
 }
 .mdui-theme-accent-cyan .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #00b8d4;
@@ -6511,7 +6432,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-cyan.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-cyan.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-cyan.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #18ffff;
+  color: #00b8d4;
 }
 .mdui-theme-accent-deep-orange .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #dd2c00;
@@ -6531,7 +6452,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-deep-orange.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-deep-orange.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-deep-orange.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #ff6e40;
+  color: #dd2c00;
 }
 .mdui-theme-accent-deep-purple .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #6200ea;
@@ -6551,7 +6472,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-deep-purple.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-deep-purple.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-deep-purple.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #7c4dff;
+  color: #6200ea;
 }
 .mdui-theme-accent-green .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #00c853;
@@ -6571,7 +6492,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-green.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-green.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-green.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #69f0ae;
+  color: #00c853;
 }
 .mdui-theme-accent-indigo .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #304ffe;
@@ -6591,7 +6512,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-indigo.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-indigo.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-indigo.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #536dfe;
+  color: #304ffe;
 }
 .mdui-theme-accent-light-blue .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #0091ea;
@@ -6611,7 +6532,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-light-blue.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-light-blue.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-light-blue.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #40c4ff;
+  color: #0091ea;
 }
 .mdui-theme-accent-light-green .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #64dd17;
@@ -6631,7 +6552,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-light-green.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-light-green.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-light-green.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #b2ff59;
+  color: #64dd17;
 }
 .mdui-theme-accent-lime .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #aeea00;
@@ -6651,7 +6572,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-lime.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-lime.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-lime.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #eeff41;
+  color: #aeea00;
 }
 .mdui-theme-accent-orange .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #ff6d00;
@@ -6671,7 +6592,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-orange.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-orange.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-orange.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #ffab40;
+  color: #ff6d00;
 }
 .mdui-theme-accent-pink .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #c51162;
@@ -6691,7 +6612,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-pink.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-pink.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-pink.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #ff4081;
+  color: #c51162;
 }
 .mdui-theme-accent-purple .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #a0f;
@@ -6711,7 +6632,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-purple.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-purple.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-purple.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #e040fb;
+  color: #a0f;
 }
 .mdui-theme-accent-red .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #d50000;
@@ -6731,27 +6652,27 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-red.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-red.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-red.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #ff5252;
+  color: #d50000;
 }
 .mdui-theme-accent-teal .mdui-textfield-focus .mdui-textfield-input {
-  border-bottom-color: #00bfa5;
-  -webkit-box-shadow: 0 1px 0 0 #00bfa5;
-          box-shadow: 0 1px 0 0 #00bfa5;
+  border-bottom-color: #00957d;
+  -webkit-box-shadow: 0 1px 0 0 #00957d;
+          box-shadow: 0 1px 0 0 #00957d;
 }
 .mdui-theme-accent-teal .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-teal .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-teal .mdui-textfield-focus .mdui-icon {
-  color: rgba(0, 191, 165, .87);
+  color: rgba(0, 149, 125, .87);
 }
 .mdui-theme-accent-teal.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-input {
-  border-bottom-color: #64ffda;
-  -webkit-box-shadow: 0 1px 0 0 #64ffda;
-          box-shadow: 0 1px 0 0 #64ffda;
+  border-bottom-color: #00bfa5;
+  -webkit-box-shadow: 0 1px 0 0 #00bfa5;
+          box-shadow: 0 1px 0 0 #00bfa5;
 }
 .mdui-theme-accent-teal.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-teal.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-teal.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #64ffda;
+  color: #00957d;
 }
 .mdui-theme-accent-yellow .mdui-textfield-focus .mdui-textfield-input {
   border-bottom-color: #ffd600;
@@ -6771,7 +6692,7 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
 .mdui-theme-accent-yellow.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-yellow.mdui-theme-layout-dark .mdui-textfield-focus .mdui-textfield-floating-label.mdui-textfield-focus .mdui-textfield-label,
 .mdui-theme-accent-yellow.mdui-theme-layout-dark .mdui-textfield-focus .mdui-icon {
-  color: #ff0;
+  color: #ffd600;
 }
 /**
  * =============================================================================
@@ -6996,12 +6917,12 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
           box-shadow: 0 0 0 15px rgba(255, 82, 82, .16);
 }
 .mdui-theme-accent-teal .mdui-checkbox input[type="checkbox"]:checked + .mdui-checkbox-icon:after {
-  background-color: #64ffda;
-  border-color: #64ffda;
+  background-color: #00bfa5;
+  border-color: #00bfa5;
 }
 .mdui-theme-accent-teal .mdui-checkbox:active input[type="checkbox"]:checked:not(:disabled) + .mdui-checkbox-icon {
-  -webkit-box-shadow: 0 0 0 15px rgba(100, 255, 218, .16);
-          box-shadow: 0 0 0 15px rgba(100, 255, 218, .16);
+  -webkit-box-shadow: 0 0 0 15px rgba(0, 191, 165, .16);
+          box-shadow: 0 0 0 15px rgba(0, 191, 165, .16);
 }
 .mdui-theme-accent-yellow .mdui-checkbox input[type="checkbox"]:checked + .mdui-checkbox-icon:after {
   background-color: #ff0;
@@ -7264,14 +7185,14 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
           box-shadow: 0 0 0 15px rgba(255, 82, 82, .16);
 }
 .mdui-theme-accent-teal .mdui-radio input[type="radio"]:checked + .mdui-radio-icon {
-  border-color: #64ffda;
+  border-color: #00bfa5;
 }
 .mdui-theme-accent-teal .mdui-radio input[type="radio"]:checked + .mdui-radio-icon:before {
-  background-color: #64ffda;
+  background-color: #00bfa5;
 }
 .mdui-theme-accent-teal .mdui-radio:active input[type="radio"]:checked:not(:disabled) + .mdui-radio-icon {
-  -webkit-box-shadow: 0 0 0 15px rgba(100, 255, 218, .16);
-          box-shadow: 0 0 0 15px rgba(100, 255, 218, .16);
+  -webkit-box-shadow: 0 0 0 15px rgba(0, 191, 165, .16);
+          box-shadow: 0 0 0 15px rgba(0, 191, 165, .16);
 }
 .mdui-theme-accent-yellow .mdui-radio input[type="radio"]:checked + .mdui-radio-icon {
   border-color: #ff0;
@@ -7523,14 +7444,14 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
           box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12), 0 0 0 15px rgba(255, 82, 82, .16);
 }
 .mdui-theme-accent-teal .mdui-switch input[type="checkbox"]:checked + .mdui-switch-icon {
-  background-color: rgba(100, 255, 218, .5);
+  background-color: rgba(0, 191, 165, .5);
 }
 .mdui-theme-accent-teal .mdui-switch input[type="checkbox"]:checked + .mdui-switch-icon:before {
-  background-color: #64ffda;
+  background-color: #00bfa5;
 }
 .mdui-theme-accent-teal .mdui-switch:active input[type="checkbox"]:checked:not(:disabled) + .mdui-switch-icon:before {
-  -webkit-box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12), 0 0 0 15px rgba(100, 255, 218, .16);
-          box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12), 0 0 0 15px rgba(100, 255, 218, .16);
+  -webkit-box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12), 0 0 0 15px rgba(0, 191, 165, .16);
+          box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12), 0 0 0 15px rgba(0, 191, 165, .16);
 }
 .mdui-theme-accent-yellow .mdui-switch input[type="checkbox"]:checked + .mdui-switch-icon {
   background-color: rgba(255, 255, 0, .5);
@@ -7841,11 +7762,11 @@ th.mdui-table-cell-checkbox .mdui-checkbox {
   border: 2px solid #ff5252;
 }
 .mdui-theme-accent-teal .mdui-slider-fill:before {
-  background-color: #64ffda;
+  background-color: #00bfa5;
 }
 .mdui-theme-accent-teal .mdui-slider-thumb {
-  background-color: #64ffda;
-  border: 2px solid #64ffda;
+  background-color: #00bfa5;
+  border: 2px solid #00bfa5;
 }
 .mdui-theme-accent-yellow .mdui-slider-fill:before {
   background-color: #ff0;
@@ -9575,7 +9496,6 @@ select.mdui-select[multiple] option:last-child {
  */
 .mdui-appbar {
   z-index: 1000;
-  width: 100%;
   -webkit-box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .2), 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12);
           box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .2), 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12);
 }
@@ -9585,6 +9505,25 @@ select.mdui-select[multiple] option:last-child {
   top: 0;
   right: 0;
   left: 0;
+  -webkit-transition-timing-function: cubic-bezier(0, 0, .2, 1);
+          transition-timing-function: cubic-bezier(0, 0, .2, 1);
+  -webkit-transition-duration: .3s;
+          transition-duration: .3s;
+  -webkit-transition-property: left, right;
+          transition-property: left, right;
+
+  will-change: left, right;
+}
+/* 左侧留出抽屉栏的距离 */
+@media (min-width: 1024px) {
+  .mdui-drawer-body-left .mdui-appbar-inset.mdui-appbar-fixed {
+    left: 240px;
+  }
+}
+@media (min-width: 1024px) {
+  .mdui-drawer-body-right .mdui-appbar-inset.mdui-appbar-fixed {
+    right: 240px;
+  }
 }
 /* 含工具栏 */
 .mdui-appbar-with-toolbar {
